@@ -1,0 +1,5 @@
+openai-whisper==20240930
+PyAudio==0.2.14
+SpeechRecognition==3.11.0
+
+ffmpeg (Version 7.1 used)
